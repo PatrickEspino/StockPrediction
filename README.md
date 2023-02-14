@@ -9,6 +9,7 @@ Implemented exploratory data analysis on the chosen stock (GOOGLE)
 ![ScreenShot](/screenshots/adjclose.PNG)
 
 I also created a heat map to see if there are any correlations between the major tech companies (Meta, Amazon, Netflix, Google, and Apple)
+
 ![ScreenShot](/screenshots/heatmap.PNG)
 
 I created a new feature named daily return in order to show where each stock is in terms of return vs risk. Expected return is determined by calculated the mean of daily return and the risk is determined by comparing that mean to the standard deviation of the stock price. All of this is using the Adjusted Close price.
