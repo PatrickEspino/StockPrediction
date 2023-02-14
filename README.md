@@ -26,7 +26,4 @@ Finally, I can use the best fit to predict the next 10 days of the stock
 
 # Implementing LSTM
 I built a recurring neural network that is capable of learning long-term dependencies that come with Time Series problems such as stock prices. I used the adam optimizer and calculated loss with mean squared error.
-![ScreenShot](/screenshots/lstmcomparison.PNG)
-
-Here is the prediction for the next 10 days
-![ScreenShot](/screenshots/lstmprediction.PNG)
+![ScreenShot](/screenshots/lstmforecast.PNG)
